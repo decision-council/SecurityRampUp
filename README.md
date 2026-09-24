@@ -132,6 +132,7 @@ Knowing the tactics, techniques, and procedures used by malicious actors to prob
 Understanding security vulnerabilities and where to get more information on them is a necessary skill. Many well known breaches were due to exploitation of an unpatched vulnerability.
 - [Introduction to CVE, CWE, and the Top 25](https://tuftsdev.github.io/DefenseAgainstTheDarkArts/readings/schristeycoley-20151029.pdf)
 - [Common Vulnerabilities and Exposures (CVE)](https://cve.mitre.org/)
+- [RowShield](https://rowshield.dev) - Probes a deployed Supabase app for reachable and exposed data, then monitors connected projects for RLS and schema drift.
 
 ## Network Traffic Analysis
 Network traffic analysis is the process of recording, reviewing, and analyzing network traffic for the purpose of performance, security and/or general network operations and management. This is a primary skill for intrusion analysis and incident response.
